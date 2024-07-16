@@ -12,9 +12,9 @@ Mobile application for tagging & searching photos with AI features
 (기본적으로 사이트의 사진을 따라 설치하나, 막히는 부분이 있다면 derick321@naver.com으로 문의 바랍니다.)
 ### 옵시디언
 마크다운 문법을 사용하는 문서 작성 도구. 사용자에 따라 다양한 커스터마이징이 가능하다.
-마크다운 문법에 대해서는 [나무위키 - 마크다운](https://namu.wiki/w/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4)을 참조할 것.
-
+마크다운 문법에 대해서는 [나무위키 - 마크다운](https://namu.wiki/w/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4)을 참조할 것. 익숙해진다면 빠른 속도로 고도로 구조화된 문서 작성이 가능하다.
 #### 옵시디언 설치
+될 수 있으면 
 [공식 홈페이지 링크](https://obsidian.md/download)
 
 # 기타 자료

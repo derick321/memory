@@ -19,7 +19,7 @@ Mobile application for tagging & searching photos with AI features
 # 저장소 연결
 본 깃허브 저장소를 로컬 옵시디언에 연결한다.
 ## 1. 본 저장소 다운받기
-
-### 
+오른쪽 위의 초록색
+###
 
 # 기타 자료

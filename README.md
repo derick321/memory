@@ -50,9 +50,6 @@ git 저장소를 원격 으로 저장해 다른 사람과 동일한 파일을 �
 <img src="https://private-user-images.githubusercontent.com/55922737/348992991-79874eed-69a0-4a94-a9cc-73d7ef6d9813.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjExMTY4MzQsIm5iZiI6MTcyMTExNjUzNCwicGF0aCI6Ii81NTkyMjczNy8zNDg5OTI5OTEtNzk4NzRlZWQtNjlhMC00YTk0LWE5Y2MtNzNkN2VmNmQ5ODEzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzE2VDA3NTUzNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY2NmUwMWM2MzlhNjNhZmY5MGQxYTcyMjY4NjgzZDNhNmJiOTk1NTIyZTk3OWYwNDAyZGM0MDA3NDQ0MjE2MTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.pMJDRW-jqTjxsa5qg_6-E36RFmqLDw17foqbYFXAXqQ">
 <img src="https://private-user-images.githubusercontent.com/55922737/348992995-9fdc575a-0cdf-406f-95bc-f0f67cf19f7f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjExMTY4MzQsIm5iZiI6MTcyMTExNjUzNCwicGF0aCI6Ii81NTkyMjczNy8zNDg5OTI5OTUtOWZkYzU3NWEtMGNkZi00MDZmLTk1YmMtZjBmNjdjZjE5ZjdmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzE2VDA3NTUzNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA0YmFjNjY3MDA1ZjM5ZWMxYWNkNjJkMTQzZjE0MDMzNDFhOTRlMzBkMjI4MmNlZGQyNDAwYzUzYWVkNDUwMzUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.yUqlNUFkjdcU5xhz4pTVK-oRBZt9FpaRrWzHdtTfnPY">
 - "Dongseop"이라고 쓰인 부분은 닉네임 같은 것이니 마음대로 바꿔도 좋습니다.
-와! 이제 당신은 저와 협업할 준비를 마쳤습니다. 파일이 더 빠른 주기로 업데이트되기를 원하신다면 **"Vault backup interval"** 설정을 변경하면 됩니다. (설정 > community plugins > git에서 설정할 수 있음)
-## 변경사항 적용하기
-만약 로컬 변경사항을 즉시 업데이트하고 싶다면, 아래 과정을 따르면 됩니다.
-1. 
+와! 이제 당신은 저와 협업할 준비를 마쳤습니다. 파일이 더 빠른 주기로 업데이트되기를 원하신다면 **"Vault backup interval"** 설정을 1로 변경하면 됩니다. (설정 > community plugins > git에서 설정할 수 있음)
 # 기타 자료
 [나무위키 - 마크다운](https://namu.wiki/w/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4)

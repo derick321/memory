@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "documents/research/implementation/YOLO.md",
+                "file": "documents/ideas/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "documents/research/implementation/YOLO.md",
+                "file": "documents/ideas/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "documents/research/implementation/YOLO.md",
+                "file": "documents/ideas/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "documents/research/implementation/YOLO.md"
+                "file": "documents/ideas/Untitled.md"
               }
             }
           }
@@ -161,9 +161,12 @@
   },
   "active": "adff26fa02d177d1",
   "lastOpenFiles": [
-    "documents/research/implementation/mllm.md",
-    "documents/research/implementation/YOLO.md",
-    "documents/research/implementation/llm inference api.md",
+    "documents/research/implementation/Models/mllm.md",
+    "documents/ideas/Untitled.md",
+    "documents/ideas",
+    "documents/research/implementation/Models/YOLO.md",
+    "documents/research/implementation/Models",
+    "documents/research/implementation/Models/llm inference api.md",
     "documents/research/Built-in Use Cases.md",
     "documents/research/implementation",
     "documents/research/Models",

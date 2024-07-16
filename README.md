@@ -5,3 +5,4 @@ Mobile application for tagging & searching photos with AI features
 [공식 홈페이지 링크](https://obsidian.md/download)
 
 # 기타 자료
+[]

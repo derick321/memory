@@ -31,7 +31,6 @@ git 저장소를 원격 으로 저장해 다른 사람과 동일한 파일을 �
 1) "Open" 선택 > 아까 압축을 풀었던 폴더를 선택하여 vault를 엽니다. 꼭 **"memory" 폴더 자체**를 선택한 후에 확인을 눌러 주세요.
 <img src="https://github.com/user-attachments/assets/990ec321-8613-425d-a758-cfa080c12b85">
 2) 만약 위처럼 사이드바에 README 파일이 보이지 않는다면, 의도한 것과 다른 보관소에 들어온 것입니다. 왼쪽 하단의 아이콘 클릭 후 아래처럼 "Manage vaults..."를 클릭해 1)을 다시 수행합니다.
-
 <img src="https://github.com/user-attachments/assets/f4a69615-7d42-4739-ab8b-fb5b6904d01f">
 
 ### 3. git 플러그인 설치하기

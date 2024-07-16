@@ -1,7 +1,7 @@
 # Memory
 Mobile application for tagging & searching photos with AI features
-# Collaboration instruction
-협업을 위해 본 저장소를 obsidian의 backup으로 설정하는 방법을 설명합니다.
+# 협업 세팅
+협업을 위해 본 저장소를 [obsidian](https://obsidian.md/)의 backup으로 설정하는 방법을 설명합니다.
 ## 
 ## 옵시디언 설치
 [공식 홈페이지 링크](https://obsidian.md/download)

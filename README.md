@@ -27,11 +27,15 @@ git 저장소를 원격 으로 저장해 다른 사람과 동일한 파일을 �
 
 <img src="https://github.com/user-attachments/assets/b72c78cf-de77-47cd-b73f-b95507586aa4"> *버튼은 이렇게 생겼습니다. 아주 사랑스러운 녀석이죠.*
 ### 2. 옵시디언과 연결하기
-옵시디언을 켭니다. 설치 과정에서 보관소를 만들지 않았다면, 아래와 같은 화면이 보입니다.
+1) 옵시디언을 켭니다. 설치 과정에서 보관소를 만들지 않았다면, 아래와 같은 화면이 보입니다.
+
 <img src="https://github.com/user-attachments/assets/d9f08985-29d6-45f2-bd5b-c92c16d27ec7">
-1) "Open" 선택 > 아까 압축을 풀었던 폴더를 선택하여 vault를 엽니다. 꼭 **"memory" 폴더 자체**를 선택한 후에 확인을 눌러 주세요.
+
+2) "Open" 선택 > 아까 압축을 풀었던 폴더를 선택하여 vault를 엽니다. 꼭 **"memory" 폴더 자체**를 선택한 후에 확인을 눌러 주세요.
+
 <img src="https://github.com/user-attachments/assets/990ec321-8613-425d-a758-cfa080c12b85">
-2) 만약 위처럼 사이드바에 README 파일이 보이지 않는다면, 의도한 것과 다른 보관소에 들어온 것입니다. 왼쪽 하단의 아이콘 클릭 후 아래처럼 "Manage vaults..."를 클릭해 1)을 다시 수행합니다.
+
+3) 만약 위처럼 사이드바에 README 파일이 보이지 않는다면, 의도한 것과 다른 보관소에 들어온 것입니다. 왼쪽 하단의 아이콘 클릭 후 아래처럼 "Manage vaults..."를 클릭해 1)을 다시 수행합니다.
 
 <img src="https://github.com/user-attachments/assets/f4a69615-7d42-4739-ab8b-fb5b6904d01f">
 

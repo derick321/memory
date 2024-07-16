@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "document/예시 문서.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "document/예시 문서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "document/예시 문서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "document/예시 문서.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "ed616c0b8ac34d74",
   "lastOpenFiles": [
-    "document/images/스크린샷 2024-07-16 오후 4.19.29.png",
     "README.md",
+    "document/예시 문서.md",
+    "document/images/스크린샷 2024-07-16 오후 4.19.29.png",
     "document/images/스크린샷 2024-07-16 오후 4.07.04.png",
     "document/images/스크린샷 2024-07-16 오후 4.27.35.png",
     "document/images/스크린샷 2024-07-16 오후 4.27.15.png",

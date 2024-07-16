@@ -9,7 +9,9 @@ Mobile application for tagging & searching photos with AI features
 원래는 처음 사용하기에 진입장벽이 있지만, 본 프로젝트의 협업에는 많은 기능이 필요하지 않으므로 여기서는 자세히 설명하지 않는다.
 #### git 설치 방법
 [블로그 포스트 - git 설치 방법](https://sfida.tistory.com/46)을 따라서 git을 설치한다.
-설치 방법을 모르겠다면 derick321@naver.com으로 문
+(기본적으로 사이트의 사진을 따라 설치하나, 막히는 부분이 있다면 derick321@naver.com으로 문의 바랍니다.)
+### 옵시디언
+마크다운 문법을 사용하는 문서 작성 도구. 사용자에 따라 다양한 커스터마이징이 가능하다.
 
 
 
